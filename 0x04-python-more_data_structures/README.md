@@ -1,0 +1,1 @@
+PYTHON_IS_FUN
